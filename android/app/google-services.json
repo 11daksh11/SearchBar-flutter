@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "861700417431",
+    "firebase_url": "https://sex-ed.firebaseio.com",
+    "project_id": "sex-ed",
+    "storage_bucket": "sex-ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861700417431:android:4a946d7c83c11d305b46d2",
+        "android_client_info": {
+          "package_name": "com.taskint.SearchImplement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861700417431-aop56n40fjvk8c82uqodht0t8bnvgu3o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMnIql43GtTOPHfLxvgCvkDSsyOGm3t0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861700417431-5tkcg3u38pa4dqhokuhqkkev3mrhhh73.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
