@@ -28,9 +28,9 @@ This project contains 2 pages
 
 
 ## The screenshots:
-<img src="screenshots/1.JPEG" alt="Logo">
-<img src="screenshots/2.JPEG" alt="Logo">
-<img src="screenshots/3.JPEG" alt="Logo">
+<img src="screenshots/1.jpg" alt="Logo">
+<img src="screenshots/2.jpg" alt="Logo">
+<img src="screenshots/3.jpg" alt="Logo">
 
 ## The apk of the app is stored in the folder
 
